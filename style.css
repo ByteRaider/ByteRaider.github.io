@@ -1,0 +1,20 @@
+.table thead th {
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    .table tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+    .table td, .table th {
+      vertical-align: middle;
+    }
+
+ .bg-image-rounded {
+      background-image: url('https://www.lzc.mx/images/negocios/unidep/106271395_3131807430199336_2703542457274746181_o.jpg');
+      background-size: cover;
+      background-position: center;
+      border-radius: 1rem; /* Rounded corners */
+      opacity: 0.5; /* 50% transparency */
+      width: 400px;
+      height: 200px;
+    }
