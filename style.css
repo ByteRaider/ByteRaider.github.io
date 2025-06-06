@@ -18,3 +18,14 @@
       width: 400px;
       height: 200px;
     }
+
+   .bg-image-underConstruction {
+      /* Background image for under construction */
+      background-image: url('https://t4.ftcdn.net/jpg/00/89/02/67/360_F_89026793_eyw5a7WCQE0y1RHsizu41uhj7YStgvAA.jpg');
+      background-size: cover;
+      background-position: center;
+      border-radius: 1rem; /* Rounded corners */
+      opacity: 0.5; /* 50% transparency */
+      width: 700px;
+      height: 500px;
+    }
